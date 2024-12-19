@@ -15,7 +15,7 @@ At Vector, the security of our ecosystem is paramount, and we greatly appreciate
 
 **Please do not disclose security issues publicly (e.g., GitHub issues) before we have had the opportunity to investigate and respond.** Instead, choose one of the following private reporting methods:
 
-1. **Email:** Send a detailed report to `security@seraphim.zone`.
+1. **Email:** Send a detailed report to `security@seraphim.zone` and `security@iskra.systems`.
 
 2. **GitHub Private Vulnerability Reporting (if available):** Use GitHub’s private reporting tools (if enabled for this repository) to confidentially share details of the vulnerability.
 
@@ -64,8 +64,8 @@ While we do not have a formal bug bounty program, we may consider providing a re
 
 ## Comments on this Policy
 
-We welcome input on how to improve these policies. If you have suggestions or feedback, please open a pull request or email `security@seraphim.zone`.
+We welcome input on how to improve these policies. If you have suggestions or feedback, please open a pull request or email `security@seraphim.zone` and `security@iskra.systems`.
 
 ----
 
-**Version: 1.0.0**
+**Version: 1.0.1**
